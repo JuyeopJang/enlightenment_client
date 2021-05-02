@@ -28,4 +28,4 @@
 <hr/>
 
 # Project Details
-## [Our Wiki](https://github.com/codestates/pickme_client/wiki)
+## [Our Wiki](https://github.com/jangjuyeop/enlightenment_client/wiki)
